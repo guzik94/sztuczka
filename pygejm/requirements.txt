@@ -1,0 +1,7 @@
+pygame
+pandas
+numpy 
+keras
+tensorflow
+scikit-learn
+coverage
